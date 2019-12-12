@@ -1,0 +1,23 @@
+ 
+body {
+    background: #FFF0F5;
+ }
+ div {
+    width: 200px;
+    height: 400px;
+    display: block;
+    text-align: center;
+    margin: auto;
+    font-family: 'Indie Flower', cursive;
+ }
+  
+ h1 {
+    color: #CD5C5C;
+    font-size: 52px;
+    font-family: 'Dancing Script', cursive;
+    text-shadow: 2px 2px grey;
+ }
+
+ .source {
+    font-family: 'Dancing Script', cursive;
+ }
